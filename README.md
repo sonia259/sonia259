@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 👋 Hi, I'm Sonia Tripathi
 - 🌱 I'm currently pursuing M.Tech in Data Science and Machine Learning from PES University
-- 👀 I'm interested in Datascience and Machine Learning
+- 👀 I'm interested in Data Science and Machine Learning
 - 📫 Mail id: tripathisonia259@gmail.com
 
 
